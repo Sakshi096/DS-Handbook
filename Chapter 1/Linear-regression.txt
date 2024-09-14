@@ -1,0 +1,4 @@
+A type of supervised ML, it tends to build a relationship between a dependent variable and one or more independent variable by finding the best fit of the straight line. 
+There is no line that fits with all the points, so the objective here is to find the best fit line that will try to minimize the error between expected and actual values. 
+
+Within linear regression comes the concept of Regualarisation. we have ridge and lasso regualrization called L2 and L1 respectively.
