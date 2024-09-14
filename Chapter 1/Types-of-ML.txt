@@ -1,0 +1,10 @@
+We have three major types - 
+
+1. Supervised learning - In this model, the algo learns on a labelled dataset to generate reasoanable predictions for the response to the new data. Like we do forecasting, predicting sales etc.
+   Two major types include -  Regression and Classification.
+
+2. Unsupervised learning - This learning model is given an unlabelled data, and the algorithm tries to make sense of it by extracting features, co-occurrences and underlying patterns on its own. 
+   Like we do clustering, anomaly detection, association, etc.
+
+3. Reinforcement learning - It depends on the learning agent to determine the output solutions by arriving at different possible ways to achieve the best possible solutions.
+
